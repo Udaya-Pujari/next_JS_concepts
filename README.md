@@ -29,3 +29,5 @@
 
 #### if you want tot ignore specifir folder as a route, then wrap that folder with ()
 
+## Dynamic Routes
+
