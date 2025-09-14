@@ -24,3 +24,5 @@
 -> Created a navigationbar component added the links to the list
 -> Created the about and porfolio folders and long with it associlated page.js file
 -> handled the smoothe navigation between the home,about and portpolio onClick of the each list
+
+# useRouter()
