@@ -26,3 +26,6 @@
 -> handled the smoothe navigation between the home,about and portpolio onClick of the each list
 
 # useRouter()
+
+#### if you want tot ignore specifir folder as a route, then wrap that folder with ()
+
